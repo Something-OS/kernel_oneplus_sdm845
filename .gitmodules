@@ -1,0 +1,3 @@
+[submodule "linux-sdm845"]
+	path = linux-sdm845
+	url = https://github.com/Something-OS/kernel_oneplus_6t_mainline.git
